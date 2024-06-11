@@ -37,9 +37,9 @@
 import { toast } from "@steveyuowo/vue-hot-toast";
 import { onMounted } from 'vue'
   defineComponent("Users-list");
-  const { data: users, refresh } = await useFetch('http://localhost:3000/users')
+  const { data: users, refresh } = await useFetch('https://crud-project-nuxt3.vercel.app/users')
   const deleteUser = async (id) => {
-    await $fetch('http://localhost:3000/users/'+id,{
+    await $fetch('https://crud-project-nuxt3.vercel.app/users/'+id,{
       method:'delete',
       onResponse({ response }) {
       if (response.status === 200) {

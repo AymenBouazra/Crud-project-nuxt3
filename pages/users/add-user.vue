@@ -34,7 +34,7 @@ const handleSubmit = async (e) => {
     email: email.value,
     password: password.value
   };
-  await $fetch('http://localhost:3000/users', {
+  await $fetch('https://crud-project-nuxt3.vercel.app//users', {
     method: 'post',
     body: user.value,
     onResponse({ response }) {

@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "firstName": "Eum soluta consequat",
+      "lastName": "Tempora velit duis p",
+      "email": "syzuvim@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 1
+    },
+    {
+      "firstName": "Est a perferendis co",
+      "lastName": "Recusandae Eum volu",
+      "email": "valy@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 2
+    },
+    {
+      "firstName": "Sapiente vitae ea ad",
+      "lastName": "Non dolorem voluptas",
+      "email": "ruxit@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 3
+    },
+    {
+      "firstName": "Est sint dolore nos",
+      "lastName": "Nostrum ducimus sit",
+      "email": "vizuxyketi@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 4
+    },
+    {
+      "firstName": "Et et laboris veniam",
+      "lastName": "Voluptatibus perfere",
+      "email": "qonokoqaz@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 6
+    },
+    {
+      "firstName": "Illo dolor dolore co",
+      "lastName": "Magnam enim lorem qu",
+      "email": "lokejameja@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 7
+    },
+    {
+      "firstName": "Ut dolore molestias ",
+      "lastName": "Cupidatat voluptatib",
+      "email": "jyhanosy@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 9
+    },
+    {
+      "firstName": "Et delectus sint si",
+      "lastName": "Autem veniam qui di",
+      "email": "qeru@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 10
+    }
+  ]
+}
